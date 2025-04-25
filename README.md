@@ -20,7 +20,7 @@ The best-performing model was vgg19 fine-tuned on the original versions of the i
 | --- | --- | --- | --- | --- |
 | vgg19_original | 0.90 | 0.93 | 0.91 | 0.93 |
 | vgg19_SEG | 0.88 | 0.91 | 0.89 | 0.91 |
-| ensemble | 0.88 | 0.91 | 0.9 | 0.91 |
+| ensemble | 0.88 | 0.91 | 0.90 | 0.91 |
 
 #### Class-wise results of the performance of the best model:
 | Class | Precision | Recall | F1-Score | Support |
