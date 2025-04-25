@@ -1,5 +1,7 @@
 # Plant Disease Classification Project
 
+This project is concerned with training deep learning models to identify plant diseases from leaf images.
+
 ## Dataset 
 The dataset contains a total of 54 000 examples of 38 classes (10 healthy, 28 affected) over 14 crop species.
 
