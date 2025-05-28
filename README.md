@@ -8,7 +8,7 @@ The dataset contains a total of 54 000 examples of 38 classes (10 healthy, 28 af
 Available here: https://github.com/spMohanty/PlantVillage-Dataset 
 
 ## Gradio App
-A simple app enabling an easy usage of the model's predicions available at: https://vojtam-plantdoctors.hf.space/
+A simple app enabling an easy usage of the model's predicions available at: https://huggingface.co/spaces/xrusnack/plant_doctor
 
 ## Methods
 The repository contains jupyter notebook documenting the dataset preparation and model training.
